@@ -1,0 +1,16 @@
+  * {
+            background-color: aqua;
+           }
+
+          h1{
+             color:darkpink;
+           }
+           .CONTENT{
+               font: size 25px;
+               color: chocolate;
+           }
+           .IMAGE{
+               display:flex;
+               justify-content: space-evenly;
+           }
+     
